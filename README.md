@@ -23,6 +23,9 @@
 ## :rocket: Technologies
 
 - [Docz](https://github.com/doczjs/docz)
+- [ReactJS](https://github.com/facebook/react)
+- [StyledComponents](https://github.com/styled-components/styled-components)
+- [PropTypes](https://www.npmjs.com/package/prop-types)
 
 <!-- How to use -->
 ## :information_source: How To Use
