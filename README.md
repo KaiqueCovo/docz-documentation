@@ -48,8 +48,7 @@ $ npm run install
 # Run the project
 $ yarn docz:dev
 ```
- <p>Ready! Now acces the [documentation](http://localhost:3000) and verify is OK.
-</p>
+ Ready! Now acces the [documentation](http://localhost:3000) and verify is OK.
 
 ---
 Made with ♥  by [Kaique Covo](https://www.linkedin.com/in/kaique-covo-a46331147/) :wave:
